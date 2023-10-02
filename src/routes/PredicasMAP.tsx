@@ -477,6 +477,8 @@ export const MAPpredicas = [
       "MJVYtps3a48",
       "3s-dltcL8v0",
       "BmgcXCiKo9Y",
+      "EqieM4DyoyI",
+      "32sn7sWCL9g",
     ],
   },
   {
@@ -677,10 +679,19 @@ export const MAPpredicas = [
       "RcOblY3_UiQ",
       "Zurf6gi-IMY",
       "FHx6ddcAO4U",
+      "2CGBO9tcU1Q",
+      "_Taczr6hqxo",
     ],
   },
   {
     key: 33,
+    img: "/images/roman_art2.jpg",
+    title: "Romanos",
+    link: "/predicas-tematicas/romanos",
+    sermonsUrl: ["SlS8CXzMWU4"],
+  },
+  {
+    key: 34,
     img: "/images/salmos.jpg",
     title: "Salmos",
     link: "/predicas-tematicas/salmos",
@@ -698,7 +709,7 @@ export const MAPpredicas = [
     ],
   },
   {
-    key: 34,
+    key: 35,
     img: "/images/penitenciales.jpg",
     title: "Salmos Penitenciales",
     link: "/predicas-tematicas/salmos-penitenciales",
@@ -714,7 +725,7 @@ export const MAPpredicas = [
     ],
   },
   {
-    key: 35,
+    key: 36,
     img: "/images/sectas.jpg",
     title: "Sectas Diabólicas",
     link: "/predicas-tematicas/sectas-diabolicas",
@@ -729,7 +740,7 @@ export const MAPpredicas = [
     ],
   },
   {
-    key: 36,
+    key: 37,
     img: "/images/pactos.jpg",
     title: "Teología del Pacto",
     link: "/predicas-tematicas/teologia-del-pacto",
@@ -745,10 +756,20 @@ export const MAPpredicas = [
     ],
   },
   {
-    key: 36,
+    key: 38,
     img: "/images/matrimonio_art.jpg",
     title: "Matrimonio",
     link: "/predicas-tematicas/matrimonio",
-    sermonsUrl: ["8TL-X7Xw6yQ", "yIvR5p3pBpo", "EPpmLkikAoQ", "VHSdzzakr2s"],
+    sermonsUrl: [
+      "8TL-X7Xw6yQ",
+      "yIvR5p3pBpo",
+      "EPpmLkikAoQ",
+      "VHSdzzakr2s",
+      "ABUWEyhb9Q8",
+      "clrpo55BouM",
+      "yfz3LuHz5iE",
+      "NLTGSBGRgLo",
+      "2S4y-lWuFWo",
+    ],
   },
 ];

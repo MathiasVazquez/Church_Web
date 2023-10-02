@@ -223,6 +223,11 @@ const router = createBrowserRouter([
     errorElement: <ErrorPage />,
   },
   {
+    path: "/predicas-tematicas/romanos",
+    element: <ContenidoSerie></ContenidoSerie>,
+    errorElement: <ErrorPage />,
+  },
+  {
     path: "/predicas-tematicas/salmos",
     element: <ContenidoSerie></ContenidoSerie>,
     errorElement: <ErrorPage />,
