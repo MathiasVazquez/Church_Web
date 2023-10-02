@@ -34,7 +34,13 @@ const App = () => {
       <div className="section1">
         <span className="current-serie">Serie actual de sermones</span>
         <span className="serie-title">
-          Matrimonio. <br /> Un Panorama Biblico.
+          <a
+            href="https://youtube.com/playlist?list=PLJJchAdsH2Qvmv0Wg9BvFeuWtrjUuN7wy&si=qu7MXHq-MU-dAyL8"
+            target="_blank"
+            style={{ textDecoration: "none", color: "white" }}
+          >
+            Matrimonio. <br /> Un Panorama Biblico.
+          </a>
         </span>
         <Grid
           container

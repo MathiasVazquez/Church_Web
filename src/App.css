@@ -513,3 +513,8 @@
     height: 1250px;
   }
 }
+@media screen and (max-width: 850px) {
+  .visitor-location-title {
+    padding-top: 100px;
+  }
+}
