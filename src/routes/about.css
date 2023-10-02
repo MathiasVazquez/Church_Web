@@ -1,0 +1,15 @@
+.text-nosotros {
+  font-size: 20px;
+  padding-top: 5rem;
+  width: 60%;
+}
+.title-nosotros {
+  font-size: 30px;
+  font-variant: small-caps;
+  color: black;
+  margin-top: 50px;
+  border-bottom: 2px solid black;
+  width: 100%;
+  letter-spacing: 0px;
+  text-align: center;
+}
